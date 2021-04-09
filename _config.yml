@@ -1,17 +1,17 @@
-# PENGGUNAAN:
+# How to use:
 # -----------------------------------------------------------------------------
-# - Instalasi gem yang diperlukan
-#   $ bundle
+# - how to install gem
+#   $ bundle install {gem name}
 #
-# - Jalankan Jekyll server
+# - Runing Jekyll server
 #   $ bundle exec jekyll s
 # -----------------------------------------------------------------------------
 
-title: 'HelloDev Online Meetup: 💎 Ruby for Beginner'
-created_at: '2020/09'
-lang: 'id-ID'
-author: 'Rizqi Nur Assyaufi - @BanditHijo'
-author_url : 'https://bandithijo.github.io'
+# Setup
+title:            'Rendang.org'
+tagline:          'A curated of tech articles with rendang (delicious) taste'
+description:      'All tech with helpfull information'
+url:              https://rendang.org'
 
 defaults:
   -
